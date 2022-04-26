@@ -8,5 +8,5 @@
 import Foundation
 
 public protocol PackageProtocol {
-    public func message() -> String
+    func message() -> String
 }
